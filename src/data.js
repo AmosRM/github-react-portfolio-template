@@ -1,14 +1,11 @@
 // Skills icons - https://react-icons.github.io/react-icons/
 import {
-  FaHtml5,
-  FaCss3Alt,
-  FaBootstrap,
-  FaReact,
   FaGitAlt,
   FaGithubSquare,
   FaLink,
+  FaPython,
 } from "react-icons/fa";
-import { SiJavascript, SiStyledcomponents, SiRedux } from "react-icons/si";
+import { SiJavascript, SiStyledcomponents, SiRedux, SiMysql, SiSqlite, SiTableau, SiRstudio, SiR } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
@@ -34,7 +31,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, Bootstrap, Redux, and the GitHub REST API.";
+  "Write a short intoduction about yourself";
 
 /* Skills
  ************************************************************** 
@@ -43,49 +40,33 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <FaHtml5 className="display-4" />,
-    name: "HTML5",
+    skill: <FaPython className="display-4" />,
+    name: "Python",
   },
   {
     id: 2,
-    skill: <FaCss3Alt className="display-4" />,
-    name: "CSS3",
+    skill: <SiSqlite className="display-4" />,
+    name: "SQLite",
   },
   {
     id: 3,
-    skill: <SiJavascript className="display-4" />,
-    name: "JavaScript",
+    skill: <SiTableau className="display-4" />,
+    name: "Tableau",
   },
   {
     id: 4,
-    skill: <FaBootstrap className="display-4" />,
-    name: "BootStrap",
+    skill: <SiR className="display-4" />,
+    name: "R",
   },
   {
     id: 5,
-    skill: <FaReact className="display-4" />,
-    name: "React",
-  },
-  {
-    id: 6,
-    skill: <SiStyledcomponents className="display-4" />,
-    name: "Styled Components",
-  },
-  {
-    id: 7,
-    skill: <SiRedux className="display-4" />,
-    name: "Redux",
-  },
-  {
-    id: 8,
-    skill: <FaGitAlt className="display-4" />,
-    name: "Git",
-  },
-  {
-    id: 9,
     skill: <FaGithubSquare className="display-4" />,
     name: "GitHub",
   },
+  {
+    id: 6,
+    skill: <SiMysql className="display-4" />,
+  }
 ];
 
 // Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
