@@ -4,6 +4,7 @@ import {
   FaGithubSquare,
   FaLink,
   FaPython,
+  FaLinkedin,
 } from "react-icons/fa";
 import { SiJavascript, SiStyledcomponents, SiRedux, SiMysql, SiSqlite, SiTableau, SiRstudio, SiR } from "react-icons/si";
 
@@ -24,7 +25,8 @@ export { HeroDark as Dark };
 export const githubUsername = "AmosRM";
 
 // Blog link icon (imported above)
-export const Blog = <FaLink />;
+export const Blog = <FaLinkedin />;
+
 
 /* About Me
  **************************************************************
@@ -91,4 +93,4 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xwkzpyzq";
