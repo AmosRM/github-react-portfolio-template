@@ -24,7 +24,7 @@ export { HeroDark as Dark };
 export const githubUsername = "AmosRM";
 
 // Blog link icon (imported above)
-export const Blog = <FaLink />;
+export const Blog = <FaLinkedin />;
 
 
 /* About Me
