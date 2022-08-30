@@ -4,6 +4,7 @@ import {
   FaGithubSquare,
   FaLink,
   FaPython,
+  FaLinkedin,
 } from "react-icons/fa";
 import { SiJavascript, SiStyledcomponents, SiRedux, SiMysql, SiSqlite, SiTableau, SiRstudio, SiR } from "react-icons/si";
 
@@ -24,7 +25,7 @@ export { HeroDark as Dark };
 export const githubUsername = "AmosRM";
 
 // Blog link icon (imported above)
-export const Blog = <FaLinkedinIn />;
+export const Blog = <FaLinkedin />;
 
 
 /* About Me
