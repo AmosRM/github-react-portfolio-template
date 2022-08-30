@@ -4,7 +4,6 @@ import {
   FaGithubSquare,
   FaLink,
   FaPython,
-  FaLinkedin,
 } from "react-icons/fa";
 import { SiJavascript, SiStyledcomponents, SiRedux, SiMysql, SiSqlite, SiTableau, SiRstudio, SiR } from "react-icons/si";
 
