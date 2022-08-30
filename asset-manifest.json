@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github-react-portfolio-template/static/css/main.3953aa88.css",
-    "main.js": "/github-react-portfolio-template/static/js/main.9a0d25d5.js",
-    "static/media/hero-dark.jpg": "/github-react-portfolio-template/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/github-react-portfolio-template/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/github-react-portfolio-template/service-worker.js",
-    "static/media/GH.svg": "/github-react-portfolio-template/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/logo.svg": "/github-react-portfolio-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github-react-portfolio-template/index.html",
-    "main.3953aa88.css.map": "/github-react-portfolio-template/static/css/main.3953aa88.css.map",
-    "main.9a0d25d5.js.map": "/github-react-portfolio-template/static/js/main.9a0d25d5.js.map"
+    "main.css": "/react/static/css/main.9ff23e91.css",
+    "main.js": "/react/static/js/main.b1908aeb.js",
+    "static/media/hero-dark.jpg": "/react/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/react/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/react/service-worker.js",
+    "static/media/GH.svg": "/react/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/logo.svg": "/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react/index.html",
+    "main.9ff23e91.css.map": "/react/static/css/main.9ff23e91.css.map",
+    "main.b1908aeb.js.map": "/react/static/js/main.b1908aeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3953aa88.css",
-    "static/js/main.9a0d25d5.js"
+    "static/css/main.9ff23e91.css",
+    "static/js/main.b1908aeb.js"
   ]
 }
