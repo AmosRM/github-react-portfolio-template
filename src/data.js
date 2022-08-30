@@ -31,9 +31,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "Hi! I am Amos, an Israeli living in Asia."
-  
-  "I enjoy the outdoors, hiking cycling swimming and spending time with my family";
+  "Hi! I am Amos, an Israeli living in Asia.";
 
 /* Skills
  ************************************************************** 
