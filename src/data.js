@@ -11,7 +11,6 @@ import { SiJavascript, SiStyledcomponents, SiRedux, SiMysql, SiSqlite, SiTableau
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
-import logomap from "./images/routemap.svg";
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
@@ -86,7 +85,7 @@ export const filteredProjects = ["cyclingplots", "NBA", "streamlitapp"];
 export const projectCardImages = [
   {
     name: "cyclingplots",
-    image: logomap,
+    image: Logo,
   },
 ];
 
