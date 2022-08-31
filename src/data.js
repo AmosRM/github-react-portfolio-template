@@ -29,7 +29,7 @@ export const githubUsername = "AmosRM";
 <<<<<<< HEAD
 export const Blog = <FaLinkedinIn />;
 =======
-export const Blog = <FaLinkedin />;
+export const Blog = <FaLinkedinIn />;
 >>>>>>> b25639d7f8c504e9576aa3ce743f2c08c7eb4396
 
 
