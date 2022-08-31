@@ -11,6 +11,7 @@ import { SiJavascript, SiStyledcomponents, SiRedux, SiMysql, SiSqlite, SiTableau
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
+import logomap from "./images/routemap.svg";
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
@@ -79,13 +80,13 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["example-1", "example-2", "example-3"];
+export const filteredProjects = ["cyclingplots", "NBA", "streamlitapp"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 13-14)
 export const projectCardImages = [
   {
-    name: "example-1",
-    image: Logo,
+    name: "cyclingplots",
+    image: logomap,
   },
 ];
 
