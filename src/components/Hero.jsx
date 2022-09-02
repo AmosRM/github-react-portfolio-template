@@ -94,11 +94,6 @@ export default function Hero() {
             </div>
           </Col>
           <Col className="d-none d-md-block">
-            <img
-              src={Logo}
-              alt="React Logo"
-              className="w-75 mx-auto hero-img"
-            />
           </Col>
         </Row>
         <Row className="align-items-end down-container">
