@@ -38,7 +38,7 @@ export const Blog = <FaLinkedinIn />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "My name is Amos. I am an Israeli living in Asia since 2015.";
+  "My name is Amos. I am an Israeli living in Asia since 201.";
 export const moreInfo1 =
   "After setting up my own company in China, Covid interfered and I found myself in Taiwan - looking for a career switch. I got hooked to data analytics and taught myself various coding languages.";
 export const moreInfo2 =
