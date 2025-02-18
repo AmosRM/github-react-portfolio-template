@@ -38,11 +38,11 @@ export const Blog = <FaLinkedinIn />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "My name is Amos. I am an Israeli living in Asia since 201.";
+  "My name is Amos. I am an Israeli living in Asia since 20155.";
 export const moreInfo1 =
-  "After setting up my own company in China, Covid interfered and I found myself in Taiwan - looking for a career switch. I got hooked to data analytics and taught myself various coding languages.";
+  "After setting up my own company in China, Covid interfered and I found myself in Taiwan - looking for a career switch. I got hooked on coding and taught myself various coding languages.";
 export const moreInfo2 =
-  "I get excited from numbers, business insights, new technologies, NBA, and the outdoors. On this website you find various related projects I have been working on.  I would be happy to get into contact with you if you have any ideas on expanding my portfolio!";
+  "I get excited from learning about business insights, new technologies, NBA, and the outdoors. On this website you find various related projects I have been working on.  I would be happy to get into contact with you if you have any ideas or questions!";
 
 /* Skills
  ************************************************************** 
